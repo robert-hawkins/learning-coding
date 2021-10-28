@@ -1,3 +1,5 @@
+#Learn Ruby - Lesson 3b
+
 puts "Text to search: "
 text = gets.chomp
 puts "Word to redact: "
