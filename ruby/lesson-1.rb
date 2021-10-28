@@ -14,4 +14,4 @@ print "What's the abbreviation for the state/province you live in? "
 state = gets.chomp
 state.upcase!
 
-print "Your name is #{first_name} #{last_name}, and you are from #{city}, #{state}."
+print "Your name is #{ first_name } #{ last_name }, and you are from #{ city }, #{ state }."
