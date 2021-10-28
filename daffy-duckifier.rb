@@ -1,3 +1,5 @@
+#Learn Ruby - Lesson 2b
+
 print "wordth, pleathe! "
 user_input = gets.chomp
 user_input.downcase!
