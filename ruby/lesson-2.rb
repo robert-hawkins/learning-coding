@@ -8,4 +8,4 @@ else
   print "nothing needth changing!"
 end
 
-puts "#{user_input}"
+puts "#{ user_input }"
