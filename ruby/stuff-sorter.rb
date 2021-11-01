@@ -1,4 +1,4 @@
-#Learning Ruby - Lesson 5b
+#Learn Ruby - Lesson 5b
 
 def alphabetize( arr, rev = false )
   arr.sort!
